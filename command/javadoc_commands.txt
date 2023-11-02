@@ -1,0 +1,4 @@
+javadoc -d docs course.test.example
+where 
+-d =  is the directlry where the html must be kept
+course.test.example = the package
