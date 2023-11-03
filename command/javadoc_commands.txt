@@ -2,3 +2,16 @@ javadoc -d docs course.test.example
 where 
 -d =  is the directlry where the html must be kept
 course.test.example = the package
+
+
+@see 			Associated class name 				Class, method, or variable
+@code 			Source code content 				Class, method, or variable
+@link 			Associated URL 						Class, method, or variable
+@author 		Author name 						Class
+@version 		Version string 						Class
+@param 			Parameter name and description 		Method
+@return 		Description of return value 		Method
+@exception 		Exception name and description 		Method
+@deprecated 	Declares an item to be obsolete 	Class, method, or variable
+@since Notes 	API version when item was added		Variable
+
